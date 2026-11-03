@@ -7,10 +7,12 @@
 **[앱 설치 파일 받기 · 3.18.3](<https://github.com/mydunalove-sena/my-health-log-releases/releases/download/v3.18.3/MyHealthLog-3.18.3%2B60-update.apk>)**
 
 - **[항상 최신 버전 확인하기](https://github.com/mydunalove-sena/my-health-log-releases/releases/latest)**
-- [그림으로 보는 설치 안내 PDF](https://github.com/mydunalove-sena/my-health-log-releases/releases/latest/download/Installation-Guide-ko.pdf)
-- [설치 안내를 글로 읽기](INSTALL.md)
+- [실제 화면으로 보는 설치 안내 PDF](https://github.com/mydunalove-sena/my-health-log-releases/releases/latest/download/Installation-Guide-ko.pdf)
+- [실제 화면 6장으로 보는 설치 안내](INSTALL.md)
 
 GitHub 로그인 없이 다운로드할 수 있습니다. 휴대폰에서 링크를 열고 `.apk` 파일을 받아 설치하세요. Releases의 `Source code (zip)` 파일은 앱 설치 파일이 아닙니다.
+
+보안 검사나 위험 경고가 표시되면 [해당 화면 안내](INSTALL.md)를 확인하세요. 특히 악성 앱 의심 경고는 설치를 멈추고 제작자에게 확인하세요.
 
 ## 지원 기기
 
