@@ -2,5 +2,14 @@
 !.gitignore
 !README.md
 !INSTALL.md
+!USER_GUIDE.md
+!RELEASE_NOTES_2026-11-25.md
+!guide-images/
+!guide-images/backup.png
+!guide-images/home.png
+!guide-images/lab.png
+!guide-images/medication.png
+!guide-images/statistics.png
+!guide-images/weight.png
 !images/
 !images/*.jpg

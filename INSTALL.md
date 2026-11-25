@@ -1,12 +1,14 @@
 # My Health Log 실제 화면 안드로이드 설치 안내
 
-최신 파일: `MyHealthLog-3.18.3+60-update.apk` · [다운로드](https://github.com/mydunalove-sena/my-health-log-releases/releases/download/v3.18.3/MyHealthLog-3.18.3%2B60-update.apk) · [최신 버전](https://github.com/mydunalove-sena/my-health-log-releases/releases/latest)
+2026-11-25 개정판 · 최신 파일: `MyHealthLog-3.21.2+66-update.apk` · [다운로드](https://github.com/mydunalove-sena/my-health-log-releases/releases/download/v3.21.2-20261125/MyHealthLog-3.21.2%2B66-update.apk) · [최신 버전](https://github.com/mydunalove-sena/my-health-log-releases/releases/latest)
+
+이번 개정판은 체중 사진/인바디 OCR 버튼을 숨기고 체중 직접 입력을 유지합니다. [앱 사용 안내](USER_GUIDE.md)에서 기록 방법을 확인하세요. 앱 버전은3.21.2+66이며 이전 같은 버전 APK와 배포일·확인값으로 구분합니다.
 
 사용자 제공 실제 화면 6장을 화면 내용에 맞춰 설치 순서로 배치했습니다. 사진 속 3.17.1 파일명과 날짜는 이전 버전 예시이며, 기기에 따라 화면 모양과 표시 순서가 다를 수 있습니다.
 
 ## 1. 먼저 확인: 실제 화면으로 따라 하는 설치 안내
 
-- 최신 설치 파일은 MyHealthLog-3.18.3+60-update.apk입니다.
+- 최신 설치 파일은 MyHealthLog-3.21.2+66-update.apk입니다.
 - 이 안내서는 직접 설치할 때 촬영한 실제 갤럭시 화면 6장을 사용합니다.
 - 사진 속 3.17.1 파일명과 날짜는 이전 버전 예시입니다. 실제로는 위의 최신 파일을 받으세요.
 - 휴대폰과 Android 버전에 따라 화면 모양과 순서는 달라질 수 있습니다.
@@ -27,7 +29,7 @@
 - 이번에 받은 .apk 파일을 누르세요.
 - 사진은 이전 3.17.1 예시입니다. 최신 파일명은 첫 쪽과 배포 페이지에서 확인하세요.
 
-<img src="images/01-open-apk.jpg" width="360" alt="다운로드한 APK 파일을 여세요">
+<img src="https://raw.githubusercontent.com/mydunalove-sena/my-health-log-releases/main/images/01-open-apk.jpg" width="360" alt="다운로드한 APK 파일을 여세요">
 
 ## 4. 설치 2단계: 앱 이름을 확인하고 설치하세요
 
@@ -35,7 +37,7 @@
 - 이 화면이면 오른쪽 아래 ‘설치’를 누르세요. 기존 사용자는 ‘업데이트’로 표시될 수 있습니다.
 - 기존 앱이나 기록을 삭제할 필요는 없습니다.
 
-<img src="images/02-install-confirmation.jpg" width="360" alt="앱 이름을 확인하고 설치하세요">
+<img src="https://raw.githubusercontent.com/mydunalove-sena/my-health-log-releases/main/images/02-install-confirmation.jpg" width="360" alt="앱 이름을 확인하고 설치하세요">
 
 ## 5. 설치 3단계: 보안 검사 결과를 기다리세요
 
@@ -43,21 +45,21 @@
 - 검사가 끝날 때까지 잠시 기다리고 화면에 나온 결과를 확인하세요.
 - 검사가 끝나면 6쪽의 설치 안내를 확인하세요.
 
-<img src="images/03-play-protect-scan.jpg" width="360" alt="보안 검사 결과를 기다리세요">
+<img src="https://raw.githubusercontent.com/mydunalove-sena/my-health-log-releases/main/images/03-play-protect-scan.jpg" width="360" alt="보안 검사 결과를 기다리세요">
 
 ## 6. 설치 계속하기: 출처를 확인한 뒤 설치하세요
 
 - 배포 페이지에서 받은 My Health Log 설치 파일인지 확인하세요.
 - 회색 ‘무시하고 설치’를 누르세요.
 
-<img src="images/04-source-warning.jpg" width="360" alt="출처를 확인한 뒤 설치하세요">
+<img src="https://raw.githubusercontent.com/mydunalove-sena/my-health-log-releases/main/images/04-source-warning.jpg" width="360" alt="출처를 확인한 뒤 설치하세요">
 
 ## 7. 차단 시 진행 1: 경고를 확인하고 설치를 진행하세요
 
 - 사용자 확인 갤럭시에서는 이 화면에서 설치를 계속 허용해야 다음으로 진행됐습니다.
 - 배포 주소와 파일명을 확인하고 설치하기로 결정했다면 왼쪽 ‘무시하고 설치’를 누르세요.
 
-<img src="images/05-harmful-app-warning.jpg" width="360" alt="경고를 확인하고 설치를 진행하세요">
+<img src="https://raw.githubusercontent.com/mydunalove-sena/my-health-log-releases/main/images/05-harmful-app-warning.jpg" width="360" alt="경고를 확인하고 설치를 진행하세요">
 
 ## 8. 차단 시 진행 2: 자동 차단으로 막히면 설정을 바꾸세요
 
@@ -66,7 +68,7 @@
 - ‘내 파일’로 돌아가 APK를 다시 열고 설치하세요. 사진은 꺼짐 상태입니다.
 - 설치 후 이 설정을 다시 켜세요. Google Play 프로텍트는 끄지 않습니다.
 
-<img src="images/06-auto-blocker-settings.jpg" width="360" alt="자동 차단으로 막히면 설정을 바꾸세요">
+<img src="https://raw.githubusercontent.com/mydunalove-sena/my-health-log-releases/main/images/06-auto-blocker-settings.jpg" width="360" alt="자동 차단으로 막히면 설정을 바꾸세요">
 
 ## 9. 설치가 끝나면: 열기 후 기존 기록을 확인하세요
 
